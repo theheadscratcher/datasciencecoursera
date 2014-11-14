@@ -1,0 +1,3 @@
+a <- available.packages()
+a<-available.packages()
+clear
